@@ -12,7 +12,7 @@
  * @author     David Collins <collidavid@gmail.com>
  * @license    http://www.gnu.org/copyleft/lesser.html  LGPL License 2.1
  * @version    CVS:0.1 $Id:$
- * @link       https://github.com/davidcollins/xlsx2csv
+ * @link       https://github.com/davidcollins/csvDiffs
  */
 
 /**
